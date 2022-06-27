@@ -1,0 +1,4 @@
+pytelegrambotapi
+pytube
+gunicorn
+flask
